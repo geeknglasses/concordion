@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/330/trunk/concordion-kickstart/lib
+END
+xom-1.2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/330/trunk/concordion-kickstart/lib/xom-1.2.5.jar
+END
+xom-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/269/trunk/concordion-kickstart/lib/xom-license.txt
+END
+ognl-2.6.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/269/trunk/concordion-kickstart/lib/ognl-2.6.9.jar
+END
+concordion-1.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/330/trunk/concordion-kickstart/lib/concordion-1.4.0.jar
+END
+junit-4.8.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/330/trunk/concordion-kickstart/lib/junit-4.8.2.jar
+END
+junit-license.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/269/trunk/concordion-kickstart/lib/junit-license.html
+END
+ognl-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/269/trunk/concordion-kickstart/lib/ognl-license.txt
+END
+xom-lgpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/269/trunk/concordion-kickstart/lib/xom-lgpl.txt
+END

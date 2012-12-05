@@ -1,0 +1,9 @@
+Testsuite: com.example.specs.greeting.HelloWorldTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.388 sec
+------------- Standard Output ---------------
+C:\Sarala\IBWorkspace\concordion-kickstart\build\concordion-output\com\example\specs\greeting\HelloWorld.html
+Successes: 1, Failures: 0
+
+------------- ---------------- ---------------
+
+Testcase: testProcessSpecification took 0.362 sec
